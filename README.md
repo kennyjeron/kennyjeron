@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003322,100:00FF99&height=200&section=header&text=KENNY%20JERON&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Builder%20%7C%20Innovator&descSize=18&descAlignY=55"/>
 
