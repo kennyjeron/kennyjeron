@@ -123,3 +123,5 @@ A ride-sharing concept designed to connect people travelling to similar destinat
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,50:003322,100:000000&height=120&section=footer"/>
 
 </div>
+
+<!-- Profile improvement -->
